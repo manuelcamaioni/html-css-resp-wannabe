@@ -18,7 +18,8 @@
     }
 
     section.why-us{
-        padding-top: 3rem;
+        margin-bottom: 0;
+        padding: 3rem 0;
         background-color: #15141A;
     }
 
