@@ -12,4 +12,14 @@
         margin: 10% 0;
     }
 
+    section.steps{
+        margin-top: 3rem;
+        margin-bottom: 0;
+    }
+
+    section.why-us{
+        padding-top: 3rem;
+        background-color: #15141A;
+    }
+
 }
